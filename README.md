@@ -56,10 +56,10 @@ BakerFluffy
 
 band-name-generator/
 ├── public/
-│   └── index.html        # Form file
-├── index.js              # Main server code
-├── package.json
-└── README.md
+│   └── index.html           # HTML form for input
+├── index.js                 # Main Express server code
+├── package.json             # Project config and dependencies
+└── README.md                # Project documentation
 
 ### 🧠 How It Works
 ✅ Middleware
